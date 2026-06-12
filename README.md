@@ -8,6 +8,18 @@ Instead of manually searching across multiple platforms, ATLAS automatically col
 
 ---
 
+## Preview
+
+### Interactive Dashboard
+
+![ATLAS Dashboard](screenshots/atlas-dashboard.png)
+
+### Terminal Execution
+
+![ATLAS Terminal](screenshots/atlas-terminal.png)
+
+---
+
 ## Why ATLAS?
 
 Finding relevant opportunities often requires checking multiple job boards individually, leading to duplicated effort and missed opportunities.
@@ -40,18 +52,6 @@ ATLAS currently aggregates opportunities from:
 * Remotive
 * RemoteOK
 * EuroRemoteJobs
-
----
-
-## Dashboard Preview
-
-### Interactive Dashboard
-
-![ATLAS Dashboard](screenshots/atlas-dashboard.png)
-
-### Terminal Execution
-
-![ATLAS Terminal](screenshots/atlas-terminal.png)
 
 ---
 
