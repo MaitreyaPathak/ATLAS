@@ -78,7 +78,7 @@ Generate Dashboard & CSV
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ATLAS.git
+git clone https://github.com/MaitreyaPathak/ATLAS.git
 cd ATLAS
 ```
 
